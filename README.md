@@ -1,6 +1,6 @@
 <img src="https://github.com/idoV44/GoFather-Decoder/blob/main/Preview.jpg" width="700" >
 
-This is a GodFather MALWARE. Inside the JAVA file you can find functions whose role is to code a key that will be used to decode the String and thus we will find the 'post' URL and then, we can find the triggers.
+This is a script made to decode GodFather 'drop' URL. Inside the JAVA file you can find functions whose role is to code a key that will be used to decode the String and thus we will find the 'post' URL and then, we can find the triggers.
 
 The script receives a Telegram URL and returns the Malware triggers. It does this through the following steps:
 
